@@ -1,2 +1,2 @@
 # JOSM_Presets
-JOSM preset xml files to share
+JOSM用プリセットファイルを共有します
