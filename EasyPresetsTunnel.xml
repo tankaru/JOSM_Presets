@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="" description="" shortdescription="" version="">
+    <!--
+このファイルはプラグイン "EasyPresets" によって生成されました。
+https://github.com/maripo/JOSM_easypresets/blob/master/README.md
+サポートされているのはごく一部のタグです。
+他のユーザとプリセットを共有することを検討されている場合、公式のドキュメントも参考にしてください。
+ * https://josm.openstreetmap.de/wiki/TaggingPresets
+ * https://wiki.openstreetmap.org/wiki/Customising_JOSM_Presets
+-->
+    <item icon="presets/transport/passage/tunnel.svg" name="トンネル銘板" type="way">
+        <label text="トンネル銘板"/>
+        <key key="tunnel" value="yes"/>
+        <text default="" key="tunnel:name" text="名称"/>
+        <text default="" key="tunnel:opening_date:ja" text="竣工"/>
+        <text default="" key="tunnel:opening_date" text="竣工(ISO8601)"/>
+        <text default="" key="tunnel:length" text="延長(m)"/>
+        <text default="" key="tunnel:width" text="幅(m)"/>
+        <text default="" key="tunnel:construction:owner" text="施主"/>
+        <text default="" key="tunnel:manufacturer" text="施工"/>
+        <text default="" key="tunnel:height" text="高(m)"/>
+        <text default="" key="tunnel:type" text="形式"/>
+    </item>
+</presets>
