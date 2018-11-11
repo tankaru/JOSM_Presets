@@ -12,8 +12,8 @@ https://github.com/maripo/JOSM_easypresets/blob/master/README.md
         <label text="トンネル銘板"/>
         <key key="tunnel" value="yes"/>
         <text default="" key="tunnel:name" text="名称"/>
-        <text default="" key="tunnel:opening_date:ja" text="竣工"/>
-        <text default="" key="tunnel:opening_date" text="竣工(ISO8601)"/>
+        <text default="" key="tunnel:start_date:ja" text="竣工"/>
+        <text default="" key="tunnel:start_date" text="竣工(ISO8601)"/>
         <text default="" key="tunnel:length" text="延長(m)"/>
         <text default="" key="tunnel:width" text="幅(m)"/>
         <text default="" key="tunnel:construction:owner" text="施主"/>
