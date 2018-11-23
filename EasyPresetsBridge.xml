@@ -20,7 +20,7 @@ https://github.com/maripo/JOSM_easypresets/blob/master/README.md
         <text default="" key="bridge:width" text="幅(m)"/>
         <text default="" key="bridge:type" text="形式"/>
     </item>
-    <item icon="presets/transport/passage/tunnel_building_passage.svg" name="橋梁銘板(man_made)" type="way">
+    <item icon="presets/transport/passage/tunnel_building_passage.svg" name="橋梁銘板(man_made)" type="closedway">
         <label text="橋梁銘板(man_made)"/>
         <key key="man_made" value="bridge"/>
         <text default="" key="name" text="名称"/>
