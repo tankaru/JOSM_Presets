@@ -31,4 +31,5 @@ https://github.com/maripo/JOSM_easypresets/blob/master/README.md
         <text default="" key="length" text="延長(m)"/>
         <text default="" key="width" text="幅(m)"/>
         <text default="" key="type" text="形式"/>
-    </item></presets>
+    </item>
+</presets>
