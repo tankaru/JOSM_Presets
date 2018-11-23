@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="" description="" shortdescription="" version="">
+    <!--
+このファイルはプラグイン "EasyPresets" によって生成されました。
+https://github.com/maripo/JOSM_easypresets/blob/master/README.md
+サポートされているのはごく一部のタグです。
+他のユーザとプリセットを共有することを検討されている場合、公式のドキュメントも参考にしてください。
+ * https://josm.openstreetmap.de/wiki/TaggingPresets
+ * https://wiki.openstreetmap.org/wiki/Customising_JOSM_Presets
+-->
+    <item icon="presets/transport/passage/tunnel_building_passage.svg" name="橋梁銘板(highway)" type="way">
+        <label text="橋梁銘板(highway)"/>
+        <key key="bridge" value="yes"/>
+        <text default="" key="bridge:name" text="名称"/>
+        <text default="" key="bridge:opening_date:ja" text="竣工"/>
+        <text default="" key="bridge:opening_date" text="竣工(ISO8601)"/>
+        <text default="" key="bridge:construction:owner" text="施主"/>
+        <text default="" key="bridge:manufacturer" text="施工"/>
+        <text default="" key="bridge:length" text="延長(m)"/>
+        <text default="" key="bridge:width" text="幅(m)"/>
+        <text default="" key="bridge:type" text="形式"/>
+    </item>
+    <item icon="presets/transport/passage/tunnel_building_passage.svg" name="橋梁銘板(man_made)" type="way">
+        <label text="橋梁銘板(man_made)"/>
+        <key key="man_made" value="bridge"/>
+        <text default="" key="name" text="名称"/>
+        <text default="" key="opening_date:ja" text="竣工"/>
+        <text default="" key="opening_date" text="竣工(ISO8601)"/>
+        <text default="" key="construction:owner" text="施主"/>
+        <text default="" key="manufacturer" text="施工"/>
+        <text default="" key="length" text="延長(m)"/>
+        <text default="" key="width" text="幅(m)"/>
+        <text default="" key="type" text="形式"/>
+    </item></presets>
