@@ -20,5 +20,6 @@ https://github.com/maripo/JOSM_easypresets/blob/master/README.md
         <text default="" key="tunnel:manufacturer" text="施工"/>
         <text default="" key="tunnel:height" text="高(m)"/>
         <text default="" key="tunnel:type" text="形式"/>
+        <text default="" key="tunnel:ref" text="参照番号"/>
     </item>
 </presets>
