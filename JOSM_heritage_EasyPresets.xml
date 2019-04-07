@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="" description="" shortdescription="" version="">
+    <!--
+このファイルはプラグイン "EasyPresets" によって生成されました。
+https://github.com/maripo/JOSM_easypresets/blob/master/README.md
+サポートされているのはごく一部のタグです。
+他のユーザとプリセットを共有することを検討されている場合、公式のドキュメントも参考にしてください。
+ * https://josm.openstreetmap.de/wiki/TaggingPresets
+ * https://wiki.openstreetmap.org/wiki/Customising_JOSM_Presets
+-->
+    <item icon="presets/sightseeing/castle.svg" name="文化財" type="node,way,relation,closedway,multipolygon">
+        <label text="文化財"/>
+        <multiselect key="heritage" text="国:2, 県:3, 市:4" values="2;3;4"/>
+        <text default="" key="heritage:operator" text="文化財管理者"/>
+        <text default="" key="heritage:ref" text="文化財番号"/>
+        <text default="" key="name" text="名前"/>
+        <text default="" key="heritage:type" text="文化財種別"/>
+    </item>
+</presets>
